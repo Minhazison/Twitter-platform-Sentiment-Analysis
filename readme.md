@@ -162,9 +162,3 @@ http://127.0.0.1:5000
 - **Machine Learning & NLP**: Scikit-Learn, NumPy, Pandas, Matplotlib
 - **Web Frameworks**: Flask, Werkzeug, Jinja2
 - **API Testing**: Postman
-
----
-
-## 👤 Author
-Developed by **Mahmudul Hasan**  
-GitHub: [@mahmudulhasantechnology-cmyk](https://www.google.com/search?q=https://github.com/mahmudulhasantechnology-cmyk)
